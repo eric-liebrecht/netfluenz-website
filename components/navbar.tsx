@@ -1,7 +1,7 @@
 "use client"
 
-import { useState } from "react"
 import { Menu, X, Zap } from "lucide-react"
+import { useState } from "react"
 
 const navLinks = [
   { label: "Features", href: "#features" },
@@ -23,7 +23,7 @@ export function Navbar() {
               <Zap className="w-4 h-4 text-primary-foreground" />
             </div>
             <span className="font-serif font-bold text-lg text-foreground tracking-tight">
-              Influence<span className="text-primary">AI</span>
+              Netfluenz
             </span>
           </a>
 

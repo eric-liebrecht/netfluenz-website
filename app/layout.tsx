@@ -13,7 +13,7 @@ const spaceGrotesk = Space_Grotesk({
 })
 
 export const metadata: Metadata = {
-  title: 'InfluenceAI – AI-Powered Performance Influencer Marketing',
+  title: 'Netfluenz – AI-Powered Performance Influencer Marketing',
   description:
     'Scale your influencer campaigns with AI-driven matching, automated tracking, and end-to-end campaign automation. Drive measurable ROI for e-commerce brands.',
   generator: 'v0.app',
